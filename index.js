@@ -1,4 +1,5 @@
-console.log("working!")
-console.log("hello")
-console.log("hello")
-console.log("hello")
+let str = "cikkll"
+
+let newStr = str.split("").reverse().join("")
+
+console.log(newStr)
